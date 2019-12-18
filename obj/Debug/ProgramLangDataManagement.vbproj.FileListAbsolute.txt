@@ -1,0 +1,34 @@
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\bin\Debug\ProgramLangDataManagement.exe.config
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\bin\Debug\ProgramLangDataManagement.exe
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\bin\Debug\ProgramLangDataManagement.pdb
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\bin\Debug\ProgramLangDataManagement.xml
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.vbproj.GenerateResource.cache
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.vbproj.CoreCompileInputs.cache
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.exe
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.xml
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.pdb
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.EditStudentForm.resources
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.NewStudentForm.resources
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.SearchStudentForm.resources
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.LandingPageForm.resources
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.Resources.resources
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.SplashScreen.resources
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\bin\Debug\ProgramLang.accdb
+C:\Users\Aloysius Ong\Desktop\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.vbprojAssemblyReference.cache
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\bin\Debug\ProgramLang.accdb
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\bin\Debug\ProgramLangDataManagement.exe.config
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\bin\Debug\ProgramLangDataManagement.exe
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\bin\Debug\ProgramLangDataManagement.pdb
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\bin\Debug\ProgramLangDataManagement.xml
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.vbprojAssemblyReference.cache
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.EditStudentForm.resources
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.NewStudentForm.resources
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.SearchStudentForm.resources
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.LandingPageForm.resources
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.Resources.resources
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.SplashScreen.resources
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.vbproj.GenerateResource.cache
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.vbproj.CoreCompileInputs.cache
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.exe
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.xml
+P:\Desktop\Liang\Degree\Sem 3\Program Lang Concept\Project\ProgramLangDataManagement\obj\Debug\ProgramLangDataManagement.pdb
