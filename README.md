@@ -8,3 +8,5 @@ This application also for my subject TPL 2141 Programming Language Concept.
 Download and click the "ProgramLangDataManagement.sln" to run.
 
 Thank you!
+
+![](LandingPageForm.Designer.vb)
